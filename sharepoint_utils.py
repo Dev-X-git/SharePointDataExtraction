@@ -11,7 +11,7 @@ from zeep import xsd
 reload(sys)
 sys.setdefaultencoding('utf8')
 
-# provide proxy if you are behind one
+# provide proxy if you are behind one..
 proxy = {
 'http': "",
 'https': "", }
