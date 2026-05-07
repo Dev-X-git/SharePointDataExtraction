@@ -21,7 +21,7 @@ session.verify = 'path to pem file'
 session.auth=HTTPKerberosAuth()
 session.proxies=proxy
 
-# directory path to save the list data file
+# directory path to save the list data file.
 extract_dir=''
 transport = Transport(session=session)
 
