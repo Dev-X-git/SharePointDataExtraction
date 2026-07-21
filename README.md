@@ -9,7 +9,7 @@ Libraries used:
 3) xml.etree.ElementTree - For XML parsing
 4) pandas - For csv conversion
 
-Python version used: 2.7.15
+Python version used: 2.7.15.
 
 For higher version, the print function change would do the needful
 
