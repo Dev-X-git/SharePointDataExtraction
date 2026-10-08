@@ -7,7 +7,7 @@ Libraries used:
 1) Zeep - Python SOAP Client
 2) requests_kerberos - For kerberos authentication
 3) xml.etree.ElementTree - For XML parsing
-4) pandas - For csv conversion
+4) pandas - For csv conversion.
 
 Python version used: 2.7.15.
 
